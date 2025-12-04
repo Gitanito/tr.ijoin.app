@@ -4,6 +4,7 @@ title: Konser Öncesi Parti Organizasyonu Stresini Unutun
 subtitle: Misafir Katılımını %100 Artıran Etkinlik Yönetimi Sırrı
 tags: [Etkinlik Organizasyonu, Parti Planlama]
 author: ijoin.app
+language: tr
 ---
 
 # Konser Öncesi Parti Organizasyonu Artık Zahmetsiz

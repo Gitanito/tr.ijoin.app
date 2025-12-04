@@ -4,6 +4,7 @@ title: Töpfer Kursuna Kayıt Olmayı Zahmetsiz Hale Getirin- Misafirleriniz Bay
 subtitle: Kayıt formlarının karmaşası olmadan kurs katılımınızı %100 artırın
 tags: [etkinlik yönetimi, kurs kaydı]
 author: ijoin.app
+language: tr
 ---
 
 # Instagram'dan Töpfer Kursu Kayıtlarını Tek Tıkla Yönetin

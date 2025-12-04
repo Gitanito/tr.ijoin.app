@@ -4,6 +4,7 @@ title: Maç Keyfini Kabusa Çeviren Organizasyon Stresine Son
 subtitle: Spor Etkinliği Buluşmalarınızı Zahmetsizce Yönetin ve Katılımı Maksimize Edin
 tags: [etkinlik organizasyonu, spor buluşması]
 author: ijoin.app
+language: tr
 ---
 
 # Maç Gecesi Buluşmalarınızı Anında Optimize Edin: Stres Yok, Sadece Keyif Var!

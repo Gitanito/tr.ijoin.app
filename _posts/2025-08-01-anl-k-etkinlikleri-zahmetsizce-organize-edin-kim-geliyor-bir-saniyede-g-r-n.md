@@ -4,6 +4,7 @@ title: Anlık Etkinlikleri Zahmetsizce Organize Edin- Kim Geliyor Bir Saniyede G
 subtitle: Son Dakika Planlarının Karmaşasını Bitiren Ücretsiz Araç
 tags: [etkinlik organizasyonu, ücretsiz davetiye]
 author: ijoin.app
+language: tr
 ---
 
 # Son Dakika Buluşmaları İçin Mükemmel Çözüm: Anlık Etkinlik Koordinasyonu

@@ -4,6 +4,7 @@ title: Beta Test Davetlerinizi Kayıt Zorunluluğu Olmadan Yönetin
 subtitle: Yüksek Katılımlı Etkinlikler İçin Basit ve Hızlı Çözüm
 tags: [beta test yönetimi, etkinlik organizasyonu]
 author: ijoin.app
+language: tr
 ---
 
 # Beta Test Katılımcılarını Kayıp Etmeyin- Anında Geri Dönüş Alın

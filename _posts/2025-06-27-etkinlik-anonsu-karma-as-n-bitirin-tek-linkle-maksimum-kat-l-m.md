@@ -4,6 +4,7 @@ title: Etkinlik Anonsu Karmaşasını Bitirin- Tek Linkle Maksimum Katılım
 subtitle: Tema Geceleri, Kitap Kulüpleri ve Topluluk Buluşmaları İçin Zahmetsiz Kayıt Çözümü
 tags: [etkinlik yönetimi, kolay kayıt]
 author: ijoin.app
+language: tr
 ---
 
 # Tema Geceleri ve Topluluk Buluşmaları İçin Zahmetsiz Kayıt Çözümü

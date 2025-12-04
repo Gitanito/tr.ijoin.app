@@ -4,6 +4,7 @@ title: Çocuk Doğum Günü Davetiyelerinde Kaybolmaya Son
 subtitle: Misafir Katılımını Maksimuma Çıkaran Dijital Organizasyon Sırrı
 tags: [doğumgünü planlama, etkinlik organizasyonu]
 author: ijoin.app
+language: tr
 ---
 
 # Doğum Günü Partisi Organizasyonu Artık Stressiz ve Hızlı

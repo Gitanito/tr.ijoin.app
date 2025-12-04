@@ -4,6 +4,7 @@ title: Gizli Pop-up Akşam Yemeği Davetlerini Yönetmenin En Kolay Yolu
 subtitle: Kayıt Zorunluluğu Olmadan Katılımcı Yanıtlarını Maksimuma Çıkarın
 tags: [etkinlik yönetimi, pop-up dinner]
 author: ijoin.app
+language: tr
 ---
 
 # Özel Etkinliklerinizi Zahmetsizce Organize Edin: Geri Dönüş Oranınız Tavan Yapsın

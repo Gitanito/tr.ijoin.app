@@ -4,6 +4,7 @@ title: Mezun Buluşmaları Düzenlemenin Zahmetsiz Yolu
 subtitle: Kayıt Zorunluluğu Olmadan Katılımı En Üst Düzeye Çıkarın
 tags: [Mezun Buluşması, Etkinlik Organizasyonu]
 author: ijoin.app
+language: tr
 ---
 
 # Mezun Buluşmaları Düzenlemenin Zahmetsiz Yolu: Katılımı %100 Artırın

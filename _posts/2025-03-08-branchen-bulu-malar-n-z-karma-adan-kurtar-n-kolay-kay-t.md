@@ -4,6 +4,7 @@ title: Branchen Buluşmalarınızı Karmaşadan Kurtarın- Kolay Kayıt
 subtitle: Profesyonel Ağ Oluşturma Etkinliklerinizde Katılımı Maksimuma Çıkarın
 tags: [etkinlik yönetimi, profesyonel buluşma]
 author: ijoin.app
+language: tr
 ---
 
 # Branchen Buluşmaları İçin Zahmetsiz Etkinlik Kaydı: Katılımı Artırın

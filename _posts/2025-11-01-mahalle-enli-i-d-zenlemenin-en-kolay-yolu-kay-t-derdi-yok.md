@@ -4,6 +4,7 @@ title: Mahalle Şenliği Düzenlemenin En Kolay Yolu - Kayıt Derdi Yok
 subtitle: Komşularınızı Zahmetsizce Organize Edin ve Katılımı Maksimuma Çıkarın
 tags: [etkinlik organizasyonu, mahalle şenliği]
 author: ijoin.app
+language: tr
 ---
 
 # Mahalle Şenliğiniz İçin Geri Dönüş Oranını %100'e Çıkarın!

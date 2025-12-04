@@ -4,6 +4,7 @@ title: Yürüyüş ve Bisiklet Turları İçin Katılımınızı Anında Organiz
 subtitle: Etkinlik organizasyonunda karmaşaya son- ijoin.app ile geri dönüşleri %90'a çıkarın
 tags: [etkinlik organizasyonu, yürüyüş turu]
 author: ijoin.app
+language: tr
 ---
 
 # Yürüyüş ve Bisiklet Turları Organizasyonunda Maksimum Katılımı Nasıl Sağlarsınız?

@@ -4,6 +4,7 @@ title: Üniversite Sınavı Öncesi Çalışma Gruplarını Organize Etmenin En 
 subtitle: Kayıt Olmadan, Karmaşa Yaşamadan Anında Çalışma Grubu Kurun
 tags: [üniversite, çalışma grubu]
 author: ijoin.app
+language: tr
 ---
 # Üniversite Sınavı Öncesi Çalışma Gruplarını Organize Etmenin En Kolay Yolu
 

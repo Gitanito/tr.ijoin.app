@@ -4,6 +4,7 @@ title: İş Sonrası Etkinlik Planlama- Zahmetsiz Toplantılar İçin Tek Link
 subtitle: Takımınızla Yeni Barı Denemek Hiç Bu Kadar Kolay Olmamıştı
 tags: [etkinlik organizasyonu, after-work]
 author: ijoin.app
+language: tr
 ---
 
 # Takımınızla Buluşmak İçin Katılım Onaylarını Saniyeler İçinde Toplayın

@@ -4,6 +4,7 @@ title: Komşuluk Yardım Etkinlikleri İçin Kayıt Kabusuna Son
 subtitle: Anlık yardım organizasyonlarını zahmetsizce yönetmenin sırrı
 tags: [komşuluk yardımı, etkinlik organizasyonu]
 author: ijoin.app
+language: tr
 ---
 
 # Anlık Komşuluk Yardım Organizasyonlarını Nasıl Kolaylaştırırsınız?

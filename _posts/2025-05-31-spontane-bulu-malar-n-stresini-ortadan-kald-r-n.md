@@ -4,6 +4,7 @@ title: Spontane Buluşmaların Stresini Ortadan Kaldırın
 subtitle: Anlık Oyun Parkı Randevuları ve Etkinlikler İçin Tek Tıkla Çözüm
 tags: [etkinlik organizasyonu, ebeveyn buluşmaları]
 author: ijoin.app
+language: tr
 ---
 
 # Oyun Parkı Buluşmaları Artık Zahmetsiz- Katılımı Maksimuma Çıkarın

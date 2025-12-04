@@ -4,6 +4,7 @@ title: Okul Gezileri İçin Mükemmel Organizasyon- Kayıt ve Karmaşaya Son
 subtitle: Velilerden Hızlı Geri Dönüş Almanın ve Araç Paylaşımını Yönetmenin En Kolay Yolu
 tags: [okul gezisi organizasyonu, araç paylaşımı]
 author: ijoin.app
+language: tr
 ---
 
 # Okul Gezilerinde Araç Paylaşımını Zahmetsizce Yönetin

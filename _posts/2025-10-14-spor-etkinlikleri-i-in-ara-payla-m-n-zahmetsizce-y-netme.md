@@ -4,6 +4,7 @@ title: Spor Etkinlikleri İçin Araç Paylaşımını Zahmetsizce Yönetme
 subtitle: Tek Bir Linkle Katılımı ve Yolculuk Koordinasyonunu Nasıl Maksimize Edersiniz
 tags: [araç paylaşımı, etkinlik yönetimi]
 author: ijoin.app
+language: tr
 ---
 
 # Spor Etkinlikleri İçin Araç Paylaşımını Zahmetsizce Yönetme

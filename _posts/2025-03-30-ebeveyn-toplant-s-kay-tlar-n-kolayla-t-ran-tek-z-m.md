@@ -4,6 +4,7 @@ title: Ebeveyn Toplantısı Kayıtlarını Kolaylaştıran Tek Çözüm
 subtitle: Okullar İçin Zahmetsiz Zamanlama ve Maksimum Katılım
 tags: [Okul Yönetimi, Etkinlik Kaydı]
 author: ijoin.app
+language: tr
 ---
 
 # Ebeveyn Toplantısı Kayıtlarını Kolaylaştıran Tek Çözüm

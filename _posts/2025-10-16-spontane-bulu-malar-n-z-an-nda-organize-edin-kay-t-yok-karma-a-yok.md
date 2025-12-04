@@ -4,6 +4,7 @@ title: Spontane Buluşmalarınızı Anında Organize Edin- Kayıt Yok Karmaşa Y
 subtitle: Piknikler, Spor Buluşmaları ve Arkadaş Toplantıları için Zahmetsiz Davet Yönetimi
 tags: [etkinlik-organizasyonu, mobil-davetiye]
 author: ijoin.app
+language: tr
 ---
 
 # Anlık Buluşmaların Gücü- Misafirlerinizi Tek Tıkla Toplayın

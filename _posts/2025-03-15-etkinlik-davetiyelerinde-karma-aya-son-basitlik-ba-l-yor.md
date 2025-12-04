@@ -4,6 +4,7 @@ title: Etkinlik Davetiyelerinde Karmaşaya Son- Basitlik Başlıyor
 subtitle: Veliler, Spor Kulüpleri ve Etkinlik Organizatörleri İçin Katılımınızı En Üst Düzeye Çıkarın
 tags: [etkinlik organizasyonu, davetiye yönetim]
 author: ijoin.app
+language: tr
 ---
 # Etkinlik Organizasyonunda Maksimum Katılımın Sırrı
 

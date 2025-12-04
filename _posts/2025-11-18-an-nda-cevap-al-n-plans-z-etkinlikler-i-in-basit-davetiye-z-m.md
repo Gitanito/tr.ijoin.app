@@ -4,6 +4,7 @@ title: Anında Cevap Alın- Plansız Etkinlikler İçin Basit Davetiye Çözüm�
 subtitle: Spontane Buluşmalarınızı Karmaşadan Kurtarın ve Katılımı Maksimize Edin
 tags: [etkinlik davetiyesi, spontane buluşma]
 author: ijoin.app
+language: tr
 ---
 
 # Spontane Buluşmalarınızda %100 Katılım Garantisi: Davetiye Takibinin Yeni Yolu

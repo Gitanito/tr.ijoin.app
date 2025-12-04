@@ -4,6 +4,7 @@ title: Antrenman Katılımını Yönetmek Artık Çocuk Oyuncağı
 subtitle: Spor Takımları İçin Kayıt Olmadan Hızlı ve Ücretsiz Katılım Takibi
 tags: [spor takımı organizasyonu, etkinlik yönetimi]
 author: ijoin.app
+language: tr
 ---
 
 # Spor Takımı Organizasyonunda Kaosu Bitirin- Anlık Katılım Takibi Nasıl Yapılır?

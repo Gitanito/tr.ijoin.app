@@ -4,6 +4,7 @@ title: Kitap Kulübü Buluşmalarını Zahmetsizce Yönetme Rehberi
 subtitle: Kayıt Olmadan Katılım- Cevap Oranınızı Nasıl %100'e Çıkarırsınız
 tags: [etkinlik yönetimi, kitap kulübü]
 author: ijoin.app
+language: tr
 ---
 
 # Kitap Kulübü Buluşmalarınızı Anında Organize Edin- Kayıt Zorunluluğu Yok!

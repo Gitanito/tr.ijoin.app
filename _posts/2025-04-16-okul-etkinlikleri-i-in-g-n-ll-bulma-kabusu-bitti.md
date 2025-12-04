@@ -4,6 +4,7 @@ title: Okul Etkinlikleri İçin Gönüllü Bulma Kabusu Bitti
 subtitle: Okul Kermesi ve Etkinlikleri İçin Zahmetsizce Gönüllü Koordinasyonu
 tags: [Okul Kermesi, Gönüllü Yönetimi]
 author: ijoin.app
+language: tr
 ---
 
 # Okul Kermesi ve Etkinlikleri İçin Gönüllü Koordinasyonu Nasıl Kolaylaşır?

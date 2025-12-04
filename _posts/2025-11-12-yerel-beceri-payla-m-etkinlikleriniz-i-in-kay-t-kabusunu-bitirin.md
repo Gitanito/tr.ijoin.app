@@ -4,6 +4,7 @@ title: Yerel Beceri Paylaşımı Etkinlikleriniz İçin Kayıt Kabusunu Bitirin
 subtitle: Ücretsiz, Hızlı ve Kayıtsız-Şartsız Katılımla Geri Dönüş Oranınızı Maksimize Edin
 tags: [etkinlik kaydı, beceri paylaşımı]
 author: ijoin.app
+language: tr
 ---
 
 # Yerel Beceri Paylaşımı Oturumları- Katılımcı Sayısını Üçe Katlamanın Sırrı

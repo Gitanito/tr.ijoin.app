@@ -4,6 +4,7 @@ title: Kayıt Derdi Olmadan Atölye Kayıtlarını Nasıl Uçurursunuz
 subtitle: Ücretsiz Sanat Atölyeleri İçin Maksimum Katılım Sağlamanın Sırrı
 tags: [etkinlik yönetimi, atölye kaydı]
 author: ijoin.app
+language: tr
 ---
 
 # Yaratıcı Atölyeleriniz İçin Kayıt Engellerini Ortadan Kaldırın

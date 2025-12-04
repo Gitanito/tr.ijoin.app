@@ -4,6 +4,7 @@ title: Spontane Co-Working Buluşmalarını Zahmetsizce Organize Edin
 subtitle: Freelancerlar İçin Anında Etkinlik Yönetimi ve Katılım Kolaylığı
 tags: [co-working, etkinlik organizasyonu]
 author: ijoin.app
+language: tr
 ---
 
 # Freelancerlar İçin Anında Buluşma Organizasyonu- Stres Yok, Sadece Üretkenlik!

@@ -4,6 +4,7 @@ title: UX-UI Tasarımcıları İçin Geri Bildirim Toplamanın Gizli Silahı
 subtitle: E-posta Karmaşası ve Kayıt Zorunluluğu Olmadan Yüksek Katılımlı Etkinlikler Düzenleyin
 tags: [etkinlik organizasyonu, UX tasarım]
 author: ijoin.app
+language: tr
 ---
 
 # Yeni Ürün Fikirleriniz İçin Zahmetsiz Geri Bildirim Oturumları Düzenleyin

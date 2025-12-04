@@ -4,6 +4,7 @@ title: Yerel İş Ağı Toplantılarını Zahmetsizce Organize Edin
 subtitle: Yüksek Katılımlı, Karmaşadan Uzak Stammtischler Düzenlemenin Sırrı
 tags: [etkinlik-organizasyonu, iş-ağı]
 author: ijoin.app
+language: tr
 ---
 
 # Yerel İş Ağı Toplantılarınızı %100 Katılıma Ulaştırın: Stammtisch Yönetiminde Devrim

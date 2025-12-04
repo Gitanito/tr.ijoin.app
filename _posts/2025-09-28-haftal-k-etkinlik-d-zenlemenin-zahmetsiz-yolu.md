@@ -4,6 +4,7 @@ title: Haftalık Etkinlik Düzenlemenin Zahmetsiz Yolu
 subtitle: Kayıt Zorunluluğu Olmadan Katılımcı Sayısını Nasıl İkiye Katlarsınız
 tags: [etkinlik organizasyonu, ücretsiz davet]
 author: ijoin.app
+language: tr
 ---
 
 # Haftalık Etkinlik Düzenlemenin Zahmetsiz Yolu
